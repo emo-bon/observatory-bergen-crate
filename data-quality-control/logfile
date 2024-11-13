@@ -1,0 +1,4 @@
+WARNING:py_data_rules.rule_factory:missing columns in table wo: {'ENA_accession_number_umbrella', 'ENA_accession_number_project'}
+WARNING:py_data_rules.rule_factory:excess columns in table wo: {'ENA_accesion_number_umbrella', 'ENA_accesion_number_project'}
+WARNING:py_data_rules.rule_factory:missing columns in table ws: {'arr_date_hq'}
+WARNING:py_data_rules.rule_factory:excess columns in table ws: {'arr_hq_date'}

@@ -1,0 +1,6 @@
+diagnosis,table,column,row,value,repair,extended_diagnosis,file_path,data_type,nullable
+organization edmoid error,wo,organization_edmoid,1,544,https://edmo.seadatanet.org/report/544,organization edmoid should be a list of URIs,/github/workspace/logsheets/filtered/water_observatory.csv,EMOBONList,False
+datatype mismatch,wo,contact_orcid,1,0000-0002-8961-7319,https://orcid.org/0000-0002-8961-7319,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,True
+datatype mismatch,wo,loc_broad_ocean_mrgid,1,1912,http://marineregions.org/mrgid/1912,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
+datatype mismatch,wo,loc_loc_mrgid,1,25233,http://marineregions.org/mrgid/25233,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
+datatype mismatch,wo,loc_regional_mrgid,1,2350,http://marineregions.org/mrgid/2350,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
