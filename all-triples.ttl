@@ -1,0 +1,206 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix ns1: <https://www.w3.org/ns/dcat#> .
+@prefix schema1: <http://schema.org/> .
+
+<file:///github/workspace/ro-crate-metadata.json> a schema1:CreativeWork ;
+    dct:conformsTo <https://w3id.org/ro/crate/1.1> ;
+    schema1:about <file:///github/workspace/> .
+
+<file:///github/workspace/> a schema1:Dataset ;
+    dct:conformsTo <https://data.emobon.embrc.eu/observatory-profile/latest> ;
+    schema1:contactPoint <https://ror.org/0038zss60> ;
+    schema1:datePublished "2025-04-01T08:39:07+00:00" ;
+    schema1:description "This RO-Crate/GitHub repository contains the EMO BON sampling event logsheets from the observatory BERGEN" ;
+    schema1:hasPart <file:///github/workspace/README.md>,
+        <file:///github/workspace/data-quality-control/>,
+        <file:///github/workspace/data-quality-control/dqc.csv>,
+        <file:///github/workspace/data-quality-control/logfile>,
+        <file:///github/workspace/data-quality-control/report.csv>,
+        <file:///github/workspace/logsheets/>,
+        <file:///github/workspace/logsheets/filtered/>,
+        <file:///github/workspace/logsheets/filtered/sediment_measured.csv>,
+        <file:///github/workspace/logsheets/filtered/sediment_observatory.csv>,
+        <file:///github/workspace/logsheets/filtered/sediment_sampling.csv>,
+        <file:///github/workspace/logsheets/filtered/water_measured.csv>,
+        <file:///github/workspace/logsheets/filtered/water_observatory.csv>,
+        <file:///github/workspace/logsheets/filtered/water_sampling.csv>,
+        <file:///github/workspace/logsheets/sediment_measured.csv>,
+        <file:///github/workspace/logsheets/sediment_observatory.csv>,
+        <file:///github/workspace/logsheets/sediment_sampling.csv>,
+        <file:///github/workspace/logsheets/transformed/>,
+        <file:///github/workspace/logsheets/transformed/sediment_measured.csv>,
+        <file:///github/workspace/logsheets/transformed/sediment_observatory.csv>,
+        <file:///github/workspace/logsheets/transformed/sediment_sampling.csv>,
+        <file:///github/workspace/logsheets/transformed/water_measured.csv>,
+        <file:///github/workspace/logsheets/transformed/water_observatory.csv>,
+        <file:///github/workspace/logsheets/transformed/water_sampling.csv>,
+        <file:///github/workspace/logsheets/water_measured.csv>,
+        <file:///github/workspace/logsheets/water_observatory.csv>,
+        <file:///github/workspace/logsheets/water_sampling.csv> ;
+    schema1:keywords "EMO BON",
+        "https://rs.tdwg.org/terms/Event",
+        "https://schema.org/Dataset",
+        "https://www.w3.org/TR/vocab-ssn/#SOSASampling" ;
+    schema1:license "https://creativecommons.org/licenses/by/4.0/" ;
+    schema1:publisher "https://www.embrc.eu/emo-bon" ;
+    schema1:title "observatory-bergen-crate" ;
+    ns1:accessURL "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/ro-crate-metadata.json" .
+
+<file:///github/workspace/README.md> a schema1:MediaObject ;
+    schema1:encodingFormat "text/markdown" .
+
+<file:///github/workspace/data-quality-control/> a schema1:Dataset .
+
+<file:///github/workspace/data-quality-control/dqc.csv> a schema1:MediaObject ;
+    schema1:encodingFormat "text/csv" .
+
+<file:///github/workspace/data-quality-control/logfile> a schema1:MediaObject ;
+    schema1:encodingFormat "text/plain" .
+
+<file:///github/workspace/data-quality-control/report.csv> a schema1:MediaObject ;
+    schema1:encodingFormat "text/csv" .
+
+<file:///github/workspace/logsheets/> a schema1:Dataset .
+
+<file:///github/workspace/logsheets/filtered/> a schema1:Dataset .
+
+<file:///github/workspace/logsheets/filtered/sediment_measured.csv> a schema1:MediaObject ;
+    schema1:description "Filtered logsheet of the environmental measurements from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/filtered/sediment_measured.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://ecoinformatics.org/oboe/oboe.1.0/oboe-core.owl#Measurement",
+        "http://purl.obolibrary.org/obo/ENVO_03000033" .
+
+<file:///github/workspace/logsheets/filtered/sediment_observatory.csv> a schema1:MediaObject ;
+    schema1:description "Filtered logsheet of the observatory metadata from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/filtered/sediment_observatory.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_03000033",
+        "https://purl.org/dc/terms/Location",
+        "https://schema.org/ContactPoint" .
+
+<file:///github/workspace/logsheets/filtered/sediment_sampling.csv> a schema1:MediaObject ;
+    schema1:description "Filtered logsheet of the sample and event metadata from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/filtered/sediment_sampling.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_03000033",
+        "https://rs.tdwg.org/terms/Event" .
+
+<file:///github/workspace/logsheets/filtered/water_measured.csv> a schema1:MediaObject ;
+    schema1:description "Filtered logsheet of the environmental measurements from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/filtered/water_measured.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://ecoinformatics.org/oboe/oboe.1.0/oboe-core.owl#Measurement",
+        "http://purl.obolibrary.org/obo/ENVO_06105011" .
+
+<file:///github/workspace/logsheets/filtered/water_observatory.csv> a schema1:MediaObject ;
+    schema1:description "Filtered logsheet of the observatory metadata from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/filtered/water_observatory.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_06105011",
+        "https://purl.org/dc/terms/Location",
+        "https://schema.org/ContactPoint" .
+
+<file:///github/workspace/logsheets/filtered/water_sampling.csv> a schema1:MediaObject ;
+    schema1:description "Filtered logsheet of the sample and event metadata from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/filtered/water_sampling.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_06105011",
+        "https://rs.tdwg.org/terms/Event" .
+
+<file:///github/workspace/logsheets/sediment_measured.csv> a schema1:MediaObject ;
+    schema1:description "Raw logsheet of the environmental measurements from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/sediment_measured.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://ecoinformatics.org/oboe/oboe.1.0/oboe-core.owl#Measurement",
+        "http://purl.obolibrary.org/obo/ENVO_03000033" .
+
+<file:///github/workspace/logsheets/sediment_observatory.csv> a schema1:MediaObject ;
+    schema1:description "Raw logsheet of the observatory metadata from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/sediment_observatory.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_03000033",
+        "https://purl.org/dc/terms/Location",
+        "https://schema.org/ContactPoint" .
+
+<file:///github/workspace/logsheets/sediment_sampling.csv> a schema1:MediaObject ;
+    schema1:description "Raw logsheet of the sample and event metadata from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/sediment_sampling.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_03000033",
+        "https://rs.tdwg.org/terms/Event" .
+
+<file:///github/workspace/logsheets/transformed/> a schema1:Dataset .
+
+<file:///github/workspace/logsheets/transformed/sediment_measured.csv> a schema1:MediaObject ;
+    schema1:description "Transformed logsheet of the environmental measurements from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/transformed/sediment_measured.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://ecoinformatics.org/oboe/oboe.1.0/oboe-core.owl#Measurement",
+        "http://purl.obolibrary.org/obo/ENVO_03000033" .
+
+<file:///github/workspace/logsheets/transformed/sediment_observatory.csv> a schema1:MediaObject ;
+    schema1:description "Transformed logsheet of the observatory metadata from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/transformed/sediment_observatory.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_03000033",
+        "https://purl.org/dc/terms/Location",
+        "https://schema.org/ContactPoint" .
+
+<file:///github/workspace/logsheets/transformed/sediment_sampling.csv> a schema1:MediaObject ;
+    schema1:description "Transformed logsheet of the sample and event metadata from the sediment sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/transformed/sediment_sampling.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_03000033",
+        "https://rs.tdwg.org/terms/Event" .
+
+<file:///github/workspace/logsheets/transformed/water_measured.csv> a schema1:MediaObject ;
+    schema1:description "Transformed logsheet of the environmental measurements from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/transformed/water_measured.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://ecoinformatics.org/oboe/oboe.1.0/oboe-core.owl#Measurement",
+        "http://purl.obolibrary.org/obo/ENVO_06105011" .
+
+<file:///github/workspace/logsheets/transformed/water_observatory.csv> a schema1:MediaObject ;
+    schema1:description "Transformed logsheet of the observatory metadata from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/transformed/water_observatory.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_06105011",
+        "https://purl.org/dc/terms/Location",
+        "https://schema.org/ContactPoint" .
+
+<file:///github/workspace/logsheets/transformed/water_sampling.csv> a schema1:MediaObject ;
+    schema1:description "Transformed logsheet of the sample and event metadata from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/transformed/water_sampling.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_06105011",
+        "https://rs.tdwg.org/terms/Event" .
+
+<file:///github/workspace/logsheets/water_measured.csv> a schema1:MediaObject ;
+    schema1:description "Raw logsheet of the environmental measurements from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/water_measured.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://ecoinformatics.org/oboe/oboe.1.0/oboe-core.owl#Measurement",
+        "http://purl.obolibrary.org/obo/ENVO_06105011" .
+
+<file:///github/workspace/logsheets/water_observatory.csv> a schema1:MediaObject ;
+    schema1:description "Raw logsheet of the observatory metadata from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/water_observatory.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_06105011",
+        "https://purl.org/dc/terms/Location",
+        "https://schema.org/ContactPoint" .
+
+<file:///github/workspace/logsheets/water_sampling.csv> a schema1:MediaObject ;
+    schema1:description "Raw logsheet of the sample and event metadata from the water sampling events" ;
+    schema1:downloadUrl "https://raw.githubusercontent.com/emo-bon/observatory-bergen-crate/main/logsheets/water_sampling.csv" ;
+    schema1:encodingFormat "text/csv" ;
+    schema1:keywords "http://purl.obolibrary.org/obo/ENVO_06105011",
+        "https://rs.tdwg.org/terms/Event" .
+
+<https://data.emobon.embrc.eu/observatory-profile/latest> a schema1:CreativeWork ;
+    schema1:name "<name>" .
+
+<https://ror.org/0038zss60> a schema1:ContactPoint ;
+    schema1:email "emobon@embrc.eu" .
+
