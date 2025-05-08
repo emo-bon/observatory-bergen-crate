@@ -1,1 +1,143 @@
 Diagnosis,LogsheetType,LogsheetTab,Column,Row,Value,ExtendedDiagnosis,FilePath,DataType,Requirement
+illegal depth,water,sampling,depth,1,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,2,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,3,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,4,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,5,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,6,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,7,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,8,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,9,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,10,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,11,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,12,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,13,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,14,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,15,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,16,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,17,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,18,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,19,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,20,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,21,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,22,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,23,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,24,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,25,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,26,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,27,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,28,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,29,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,30,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,31,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,32,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,33,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,34,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,35,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,36,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,37,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,38,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,39,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+illegal depth,water,sampling,depth,40,2,depth must be less than or equal to tot_depth_water_col (18),/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,1,EMOBON_Bergen_Wa_1,source_mat_id should match ^EMOBON_Bergen_Wa_220426_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,2,EMOBON_Bergen_Wa_2,source_mat_id should match ^EMOBON_Bergen_Wa_220426_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,3,EMOBON_Bergen_Wa_3,source_mat_id should match ^EMOBON_Bergen_Wa_220426_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,4,EMOBON_Bergen_Wa_4,source_mat_id should match ^EMOBON_Bergen_Wa_220426_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,5,EMOBON_Bergen_Wa_5,source_mat_id should match ^EMOBON_Bergen_Wa_220426_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,6,EMOBON_Bergen_Wa_6,source_mat_id should match ^EMOBON_Bergen_Wa_220426_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,7,EMOBON_Bergen_Wa_7,source_mat_id should match ^EMOBON_Bergen_Wa_220426_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,8,EMOBON_Bergen_Wa_8,source_mat_id should match ^EMOBON_Bergen_Wa_220426_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,9,EMOBON_Bergen_Wa_9,source_mat_id should match ^EMOBON_Bergen_Wa_220426_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,10,EMOBON_Bergen_Wa_10,source_mat_id should match ^EMOBON_Bergen_Wa_220426_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,11,EMOBON_Bergen_Wa_11,source_mat_id should match ^EMOBON_Bergen_Wa_220630_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,12,EMOBON_Bergen_Wa_12,source_mat_id should match ^EMOBON_Bergen_Wa_220630_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,13,EMOBON_Bergen_Wa_13,source_mat_id should match ^EMOBON_Bergen_Wa_220630_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,14,EMOBON_Bergen_Wa_14,source_mat_id should match ^EMOBON_Bergen_Wa_220630_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,15,EMOBON_Bergen_Wa_15,source_mat_id should match ^EMOBON_Bergen_Wa_220630_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,16,EMOBON_Bergen_Wa_16,source_mat_id should match ^EMOBON_Bergen_Wa_220630_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,17,EMOBON_Bergen_Wa_17,source_mat_id should match ^EMOBON_Bergen_Wa_220630_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,18,EMOBON_Bergen_Wa_18,source_mat_id should match ^EMOBON_Bergen_Wa_220630_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,19,EMOBON_Bergen_Wa_19,source_mat_id should match ^EMOBON_Bergen_Wa_220630_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,20,EMOBON_Bergen_Wa_20,source_mat_id should match ^EMOBON_Bergen_Wa_220630_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,21,EMOBON_Bergen_Wa_21,source_mat_id should match ^EMOBON_Bergen_Wa_220831_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,22,EMOBON_Bergen_Wa_22,source_mat_id should match ^EMOBON_Bergen_Wa_220831_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,23,EMOBON_Bergen_Wa_23,source_mat_id should match ^EMOBON_Bergen_Wa_220831_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,24,EMOBON_Bergen_Wa_24,source_mat_id should match ^EMOBON_Bergen_Wa_220831_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,25,EMOBON_Bergen_Wa_25,source_mat_id should match ^EMOBON_Bergen_Wa_220831_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,26,EMOBON_Bergen_Wa_26,source_mat_id should match ^EMOBON_Bergen_Wa_220831_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,27,EMOBON_Bergen_Wa_27,source_mat_id should match ^EMOBON_Bergen_Wa_220831_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,28,EMOBON_Bergen_Wa_28,source_mat_id should match ^EMOBON_Bergen_Wa_220831_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,29,EMOBON_Bergen_Wa_29,source_mat_id should match ^EMOBON_Bergen_Wa_220831_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,30,EMOBON_Bergen_Wa_30,source_mat_id should match ^EMOBON_Bergen_Wa_220831_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,31,EMOBON_Bergen_Wa_31,source_mat_id should match ^EMOBON_Bergen_Wa_221025_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,32,EMOBON_Bergen_Wa_32,source_mat_id should match ^EMOBON_Bergen_Wa_221025_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,33,EMOBON_Bergen_Wa_33,source_mat_id should match ^EMOBON_Bergen_Wa_221025_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,34,EMOBON_Bergen_Wa_34,source_mat_id should match ^EMOBON_Bergen_Wa_221025_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,35,EMOBON_Bergen_Wa_35,source_mat_id should match ^EMOBON_Bergen_Wa_221025_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,36,EMOBON_Bergen_Wa_36,source_mat_id should match ^EMOBON_Bergen_Wa_221025_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,37,EMOBON_Bergen_Wa_37,source_mat_id should match ^EMOBON_Bergen_Wa_221025_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,38,EMOBON_Bergen_Wa_38,source_mat_id should match ^EMOBON_Bergen_Wa_221025_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,39,EMOBON_Bergen_Wa_39,source_mat_id should match ^EMOBON_Bergen_Wa_221025_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,40,EMOBON_Bergen_Wa_40,source_mat_id should match ^EMOBON_Bergen_Wa_221025_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,ENA_accession_number_sample,1,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,2,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,3,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,4,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,11,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,12,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,13,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,14,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,19,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,20,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,21,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,22,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,23,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,24,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,31,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,32,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,33,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,ENA_accession_number_sample,34,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
+missing value,water,sampling,arr_date_seq,31,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,32,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,33,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,34,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,31,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,32,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,33,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,34,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,failure,1,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,2,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,3,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,4,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,11,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,12,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,13,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,14,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,19,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,20,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,21,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,22,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,23,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,24,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,31,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,32,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,33,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure,34,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,failure_comment,1,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,2,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,3,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,4,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,11,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,12,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,13,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,14,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,19,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,20,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,21,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,22,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,23,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,24,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,31,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,32,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,33,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+missing value,water,sampling,failure_comment,34,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
